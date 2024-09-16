@@ -1,0 +1,14 @@
+D:\c#\buoi1_TTnet\buoi1_TTnet\bin\Debug\net8.0\buoi1_TTnet.exe
+D:\c#\buoi1_TTnet\buoi1_TTnet\bin\Debug\net8.0\buoi1_TTnet.deps.json
+D:\c#\buoi1_TTnet\buoi1_TTnet\bin\Debug\net8.0\buoi1_TTnet.runtimeconfig.json
+D:\c#\buoi1_TTnet\buoi1_TTnet\bin\Debug\net8.0\buoi1_TTnet.dll
+D:\c#\buoi1_TTnet\buoi1_TTnet\bin\Debug\net8.0\buoi1_TTnet.pdb
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\buoi1_TTnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\buoi1_TTnet.AssemblyInfoInputs.cache
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\buoi1_TTnet.AssemblyInfo.cs
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\buoi1_TTnet.csproj.CoreCompileInputs.cache
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\buoi1_TTnet.dll
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\refint\buoi1_TTnet.dll
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\buoi1_TTnet.pdb
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\buoi1_TTnet.genruntimeconfig.cache
+D:\c#\buoi1_TTnet\buoi1_TTnet\obj\Debug\net8.0\ref\buoi1_TTnet.dll
