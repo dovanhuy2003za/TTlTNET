@@ -1,0 +1,14 @@
+D:\c#\buoi2_ttnet\saukytu\bin\Debug\net8.0\saukytu.exe
+D:\c#\buoi2_ttnet\saukytu\bin\Debug\net8.0\saukytu.deps.json
+D:\c#\buoi2_ttnet\saukytu\bin\Debug\net8.0\saukytu.runtimeconfig.json
+D:\c#\buoi2_ttnet\saukytu\bin\Debug\net8.0\saukytu.dll
+D:\c#\buoi2_ttnet\saukytu\bin\Debug\net8.0\saukytu.pdb
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\saukytu.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\saukytu.AssemblyInfoInputs.cache
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\saukytu.AssemblyInfo.cs
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\saukytu.csproj.CoreCompileInputs.cache
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\saukytu.dll
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\refint\saukytu.dll
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\saukytu.pdb
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\saukytu.genruntimeconfig.cache
+D:\c#\buoi2_ttnet\saukytu\obj\Debug\net8.0\ref\saukytu.dll

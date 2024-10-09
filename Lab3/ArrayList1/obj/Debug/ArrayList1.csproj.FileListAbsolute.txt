@@ -1,0 +1,9 @@
+D:\c#\Lab3\ArrayList1\bin\Debug\ArrayList1.exe.config
+D:\c#\Lab3\ArrayList1\bin\Debug\ArrayList1.exe
+D:\c#\Lab3\ArrayList1\bin\Debug\ArrayList1.pdb
+D:\c#\Lab3\ArrayList1\obj\Debug\ArrayList1.csproj.AssemblyReference.cache
+D:\c#\Lab3\ArrayList1\obj\Debug\ArrayList1.Properties.Resources.resources
+D:\c#\Lab3\ArrayList1\obj\Debug\ArrayList1.csproj.GenerateResource.cache
+D:\c#\Lab3\ArrayList1\obj\Debug\ArrayList1.csproj.CoreCompileInputs.cache
+D:\c#\Lab3\ArrayList1\obj\Debug\ArrayList1.exe
+D:\c#\Lab3\ArrayList1\obj\Debug\ArrayList1.pdb

@@ -1,0 +1,14 @@
+D:\c#\Lab3\bai2list\bin\Debug\net8.0\bai2list.exe
+D:\c#\Lab3\bai2list\bin\Debug\net8.0\bai2list.deps.json
+D:\c#\Lab3\bai2list\bin\Debug\net8.0\bai2list.runtimeconfig.json
+D:\c#\Lab3\bai2list\bin\Debug\net8.0\bai2list.dll
+D:\c#\Lab3\bai2list\bin\Debug\net8.0\bai2list.pdb
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\bai2list.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\bai2list.AssemblyInfoInputs.cache
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\bai2list.AssemblyInfo.cs
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\bai2list.csproj.CoreCompileInputs.cache
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\bai2list.dll
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\refint\bai2list.dll
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\bai2list.pdb
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\bai2list.genruntimeconfig.cache
+D:\c#\Lab3\bai2list\obj\Debug\net8.0\ref\bai2list.dll
