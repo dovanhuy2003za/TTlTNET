@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\Lab3\\BTVN4\\BTVN4.csproj": {}
+    "D:\\c#\\ttnet\\a\\TTlTNET\\Lab3\\BTVN4\\BTVN4.csproj": {}
   },
   "projects": {
-    "D:\\c#\\Lab3\\BTVN4\\BTVN4.csproj": {
+    "D:\\c#\\ttnet\\a\\TTlTNET\\Lab3\\BTVN4\\BTVN4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\Lab3\\BTVN4\\BTVN4.csproj",
+        "projectUniqueName": "D:\\c#\\ttnet\\a\\TTlTNET\\Lab3\\BTVN4\\BTVN4.csproj",
         "projectName": "BTVN4",
-        "projectPath": "D:\\c#\\Lab3\\BTVN4\\BTVN4.csproj",
+        "projectPath": "D:\\c#\\ttnet\\a\\TTlTNET\\Lab3\\BTVN4\\BTVN4.csproj",
         "packagesPath": "C:\\Users\\Huy pc\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\Lab3\\BTVN4\\obj\\",
+        "outputPath": "D:\\c#\\ttnet\\a\\TTlTNET\\Lab3\\BTVN4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huy pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
