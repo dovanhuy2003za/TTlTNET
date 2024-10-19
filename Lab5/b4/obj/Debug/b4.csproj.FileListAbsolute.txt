@@ -1,0 +1,10 @@
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\bin\Debug\b4.exe.config
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\bin\Debug\b4.exe
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\bin\Debug\b4.pdb
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\obj\Debug\b4.csproj.AssemblyReference.cache
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\obj\Debug\b4.Form1.resources
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\obj\Debug\b4.Properties.Resources.resources
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\obj\Debug\b4.csproj.GenerateResource.cache
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\obj\Debug\b4.csproj.CoreCompileInputs.cache
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\obj\Debug\b4.exe
+D:\c#\ttnet\a\TTlTNET\Lab5\b4\obj\Debug\b4.pdb

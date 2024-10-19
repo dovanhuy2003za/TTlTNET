@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\ttnet\\a\\TTlTNET\\Baiktra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52FC27E7-3607-4300-B182-38E5DBFD7AED}|Bai1\\Bai1.csproj|d:\\c#\\ttnet\\a\\ttltnet\\baiktra\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FC27E7-3607-4300-B182-38E5DBFD7AED}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\Baiktra\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\Baiktra\\Bai1\\Program.cs*",
+              "RelativeToolTip": "Bai1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:27:15.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

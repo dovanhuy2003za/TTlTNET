@@ -1,0 +1,10 @@
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\bin\Debug\btvn.exe.config
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\bin\Debug\btvn.exe
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\bin\Debug\btvn.pdb
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\obj\Debug\btvn.csproj.AssemblyReference.cache
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\obj\Debug\btvn.Properties.Resources.resources
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\obj\Debug\btvn.csproj.GenerateResource.cache
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\obj\Debug\btvn.csproj.CoreCompileInputs.cache
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\obj\Debug\btvn.exe
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\obj\Debug\btvn.pdb
+D:\c#\ttnet\a\TTlTNET\Lab5\btvn\obj\Debug\btvn.b1.resources
