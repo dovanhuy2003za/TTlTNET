@@ -1,0 +1,32 @@
+E:\Thực hành lập trình dotNet\code\lab6\bai1\bin\Debug\bai1.exe.config
+E:\Thực hành lập trình dotNet\code\lab6\bai1\bin\Debug\bai1.exe
+E:\Thực hành lập trình dotNet\code\lab6\bai1\bin\Debug\bai1.pdb
+E:\Thực hành lập trình dotNet\code\lab6\bai1\bin\Debug\Interop.WMPLib.dll
+E:\Thực hành lập trình dotNet\code\lab6\bai1\bin\Debug\AxInterop.WMPLib.dll
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\Interop.WMPLib.dll
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\AxInterop.WMPLib.dll
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.csproj.ResolveComReference.cache
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.Form1.resources
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.Properties.Resources.resources
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.exe
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.pdb
+E:\Thực hành lập trình dotNet\code\lab6\bai1\obj\Debug\bai1.Form2.resources
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\bin\Debug\bai1.exe.config
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\bin\Debug\bai1.exe
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\bin\Debug\bai1.pdb
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\bin\Debug\Interop.WMPLib.dll
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\bin\Debug\AxInterop.WMPLib.dll
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\Interop.WMPLib.dll
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\AxInterop.WMPLib.dll
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.csproj.ResolveComReference.cache
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.Form1.resources
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.Form2.resources
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.Properties.Resources.resources
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.exe
+D:\c#\ttnet\a\TTlTNET\lab6 (1)\bai1\obj\Debug\bai1.pdb

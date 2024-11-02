@@ -1,0 +1,10 @@
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\bin\Debug\DoVanHuy_21103100502.exe.config
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\bin\Debug\DoVanHuy_21103100502.exe
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\bin\Debug\DoVanHuy_21103100502.pdb
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\obj\Debug\DoVanHuy_21103100502.csproj.AssemblyReference.cache
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\obj\Debug\DoVanHuy_21103100502.Properties.Resources.resources
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\obj\Debug\DoVanHuy_21103100502.csproj.GenerateResource.cache
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\obj\Debug\DoVanHuy_21103100502.csproj.CoreCompileInputs.cache
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\obj\Debug\DoVanHuy_21103100502.exe
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\obj\Debug\DoVanHuy_21103100502.pdb
+D:\c#\ttnet\a\TTlTNET\DoVanHuy_21103100502\DoVanHuy_21103100502\obj\Debug\DoVanHuy_21103100502.Form0502.resources
