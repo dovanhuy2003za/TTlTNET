@@ -1,0 +1,12 @@
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.csproj.AssemblyReference.cache
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.Form1.resources
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.Properties.Resources.resources
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.csproj.GenerateResource.cache
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.csproj.CoreCompileInputs.cache
+E:\lab9_DoVanHuy\bin\Debug\lab9_DoVanHuy.exe.config
+E:\lab9_DoVanHuy\bin\Debug\lab9_DoVanHuy.exe
+E:\lab9_DoVanHuy\bin\Debug\lab9_DoVanHuy.pdb
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.exe
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.pdb
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.Form2.resources
+E:\lab9_DoVanHuy\obj\Debug\lab9_DoVanHuy.Form3.resources
