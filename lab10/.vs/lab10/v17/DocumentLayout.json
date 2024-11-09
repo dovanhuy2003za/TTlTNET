@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|d:\\c#\\ttnet\\a\\ttltnet\\lab10\\lab10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|solutionrelative:lab10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|d:\\c#\\ttnet\\a\\ttltnet\\lab10\\lab10\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|solutionrelative:lab10\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|d:\\c#\\ttnet\\a\\ttltnet\\lab10\\lab10\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|solutionrelative:lab10\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|d:\\c#\\ttnet\\a\\ttltnet\\lab10\\lab10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|solutionrelative:lab10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|d:\\c#\\ttnet\\a\\ttltnet\\lab10\\lab10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|solutionrelative:lab10\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|d:\\c#\\ttnet\\a\\ttltnet\\lab10\\lab10\\bangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|solutionrelative:lab10\\bangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|d:\\c#\\ttnet\\a\\ttltnet\\lab10\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A1C495-1A81-4A07-8512-CE2A9812A8E9}|lab10\\lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Form1.cs",
+              "RelativeDocumentMoniker": "lab10\\Form1.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Form1.cs",
+              "RelativeToolTip": "lab10\\Form1.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAjwIsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:41:38.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lab10\\Form1.Designer.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Form1.Designer.cs",
+              "RelativeToolTip": "lab10\\Form1.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAYwPwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:33:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Program.cs",
+              "RelativeDocumentMoniker": "lab10\\Program.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Program.cs",
+              "RelativeToolTip": "lab10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:21:36.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BangCap.cs",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\BangCap.cs",
+              "RelativeDocumentMoniker": "lab10\\BangCap.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\BangCap.cs",
+              "RelativeToolTip": "lab10\\BangCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:10:31.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\NhanVien.cs",
+              "RelativeDocumentMoniker": "lab10\\NhanVien.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\NhanVien.cs",
+              "RelativeToolTip": "lab10\\NhanVien.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA5wCcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:06:52.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\DataBase.cs",
+              "RelativeDocumentMoniker": "lab10\\DataBase.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\DataBase.cs",
+              "RelativeToolTip": "lab10\\DataBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:57:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Form1.cs",
+              "RelativeDocumentMoniker": "lab10\\Form1.cs",
+              "ToolTip": "D:\\c#\\ttnet\\a\\TTlTNET\\lab10\\lab10\\Form1.cs [Design]",
+              "RelativeToolTip": "lab10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:50:01.123Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
